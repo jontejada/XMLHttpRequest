@@ -55,7 +55,7 @@ Create a new `XMLHttpRequest` to request the `data.json` file in this repo. Pars
 
 Make even another `XMLHttpRequest` to now consume the Reddit JSON API.
 You can add `.json` to a subreddit URL to create a JSON endpoint.
-For example: `http://reddit.com/r/aww.json`
+For example: `http://www.reddit.com/r/aww.json`
 
 Print to the console these 2 things of each post returned:
 
