@@ -57,7 +57,7 @@ Make even another `XMLHttpRequest` to now consume the Reddit JSON API.
 You can add `.json` to a subreddit URL to create a JSON endpoint.
 For example: `http://www.reddit.com/r/aww.json`
 
-Print to the console these 2 things of each post returned:
+Print to the console 3 things of each post returned:
 
 1. The title
 1. The thumbnail URL
