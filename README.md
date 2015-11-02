@@ -1,7 +1,7 @@
 # XMLHttpRequest
 
 In this assignment, we want you to asynchronously request data from servers.
-This task will provide you with a few learning opportunities you'll:
+This task will provide you with a few learning opportunities so you'll:
 
 1. Get to write more JS
 1. Get better with consuming third-party API's
