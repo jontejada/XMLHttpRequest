@@ -44,7 +44,7 @@ Make sure you see the `index.html` file when you hit your `http-server` URL in C
 
 ### 2 of 5: Request `index.html`
 
-Edit the JavaScript file to print out the contents of `index.html` in the Chrome JavaScript console.
+Edit the JavaScript file `script.js` to print out the contents of `index.html` in the Chrome JavaScript console.
 Make sure you are using `XMLHttpRequest` to do it!
 
 ### 3 of 5: Request JSON data
