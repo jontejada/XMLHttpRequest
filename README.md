@@ -1,7 +1,11 @@
 # XMLHttpRequest
 
 In this assignment, we want you to asynchronously request data from servers.
-This task will provide you with a few learning opportunities: first, you'll get write more JS; second, you'll get better with consuming third-party API's; third, you'll learn how to make dynamic requests with JS to other servers.
+This task will provide you with a few learning opportunities:
+
+1. You'll get write more JS
+1. You'll get better with consuming third-party API's
+1. YOu'll learn how to make dynamic requests with JS to other servers.
 
 You'll be using [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest#XMLHttpRequest(%29) and [JSON.parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) to accomplish these exercises.
 
@@ -54,6 +58,7 @@ You can add `.json` to a subreddit URL to create a JSON endpoint.
 For example: `http://reddit.com/r/aww.json`
 
 Print to the console these 2 things of each post returned:
+
 1. The title
 1. The thumbnail URL
 1. Anything else
