@@ -1,11 +1,11 @@
 # XMLHttpRequest
 
 In this assignment, we want you to asynchronously request data from servers.
-This task will provide you with a few learning opportunities:
+This task will provide you with a few learning opportunities you'll:
 
-1. You'll get write more JS
-1. You'll get better with consuming third-party API's
-1. YOu'll learn how to make dynamic requests with JS to other servers.
+1. Get to write more JS
+1. Get better with consuming third-party API's
+1. Learn how to make dynamic requests with JS to other servers
 
 You'll be using [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest#XMLHttpRequest(%29) and [JSON.parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) to accomplish these exercises.
 
