@@ -7,7 +7,7 @@ This task will provide you with a few learning opportunities so you'll:
 1. Get better with consuming third-party API's
 1. Learn how to make dynamic requests with JS to other servers
 
-You'll be using [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest#XMLHttpRequest(%29) and [JSON.parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) to accomplish these exercises.
+You'll be using [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest#XMLHttpRequest%28%29) and [JSON.parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) to accomplish these exercises.
 
 Here's an example:
 ```js
