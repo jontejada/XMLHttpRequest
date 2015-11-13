@@ -64,5 +64,4 @@ Print to the console 3 things of each post returned:
 1. Anything else
 
 ### 5 of 5: Submission
-
 Do a pull request when you are done.
